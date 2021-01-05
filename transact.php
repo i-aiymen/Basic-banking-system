@@ -130,7 +130,7 @@ if(isset($_POST['submit']))
                         <td class="text-center py-2"><?php echo $rows['name'] ?></td>
                         <td class="text-center py-2"><?php echo $rows['email'] ?></td>
                         <td class="text-center py-2"><?php echo $rows['phone'] ?></td>
-                        <td class="text-center py-2"><?php echo $rows['balance'] ?></td>
+                        <td class="text-center py-2">₹<?php echo $rows['balance'] ?></td>
                     </tr>
                 </tbody>
             </table>
@@ -156,7 +156,7 @@ if(isset($_POST['submit']))
                 <option class="table" value="<?php echo $rows['id'];?>" >
                 
                     <?php echo $rows['id'] ;?> - 
-                    <?php echo $rows['name'] ;?> (Balance: 
+                    <?php echo $rows['name'] ;?> (Balance:₹
                     <?php echo $rows['balance'] ;?> ) 
                
                 </option>
