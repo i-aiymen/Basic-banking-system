@@ -41,7 +41,6 @@
       <table class="content-table">
         <thead>
             <tr>
-                <th class="text-center">S.NO</th>
                 <th class="text-center">FROM</th>
                 <th class="text-center">TO</th>
                 <th class="text-center">AMOUNT</th>
@@ -62,10 +61,9 @@
          ?>
 
             <tr>
-              <td class="text-center py-2"><?php echo $rows['sno']; ?></td>
               <td class="text-center py-2"><?php echo $rows['sender']; ?></td>
               <td class="text-center py-2"><?php echo $rows['receiver']; ?></td>
-              <td class="text-center py-2"><?php echo $rows['balance']; ?> </td>
+              <td class="text-center py-2">₹<?php echo $rows['balance']; ?> </td>
               <td class="text-center py-2"><?php echo $rows['datetime']; ?> </td>  
         <?php
             }
