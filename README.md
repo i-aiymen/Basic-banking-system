@@ -1,7 +1,6 @@
 # BASIC-BANKING-SYSTEM
 
-Project developed during my Internship at 
-# The Sparks Foundation
+Project developed during my Internship at The Sparks Foundation
 
 # AIM
 Create a simple dynamic website which has the following specs.
