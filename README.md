@@ -15,6 +15,7 @@ Host the website at 000webhost, github.io, heroku app or any other free hosting 
 
 # Tech Stack
 FRONT END: HTML, CSS, JavaScript, Bootstrap 
+
 BACK END: PHP DATABASE: MySQL
 
 The Website is Hosted at 000webhost.
