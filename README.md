@@ -1,6 +1,7 @@
-# Basic-Banking-System
+# BASIC-BANKING-SYSTEM
 
-First Project during my Internship at The Sparks Foundation
+Project developed during my Internship at 
+# The Sparks Foundation
 
 # AIM
 Create a simple dynamic website which has the following specs.
@@ -14,6 +15,7 @@ No Login Page. No User Creation. Only transfer of money between multiple users.
 Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in github.
 
 # Tech Stack
-FRONT END: HTML, CSS, JavaScript, Bootstrap BACK END: PHP DATABASE: MySQL
+FRONT END: HTML, CSS, JavaScript, Bootstrap 
+BACK END: PHP DATABASE: MySQL
 
-The Website is Hosted at InfinityFree.
+The Website is Hosted at 000webhost.
