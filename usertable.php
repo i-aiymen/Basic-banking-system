@@ -52,7 +52,7 @@
                         <td class="text-center py-2"><?php echo $rows['name']?></td>
                         <td class="text-center py-2"><?php echo $rows['email']?></td>
                         <td class="text-center py-2"><?php echo $rows['phone']?></td>
-                        <td class="text-center py-2"><?php echo $rows['balance']?></td>
+                        <td class="text-center py-2">₹<?php echo $rows['balance']?></td>
                         <div class="message-wrapper">
                            <div class="container">
                            <td class="text-center"><a href="transact.php?id= <?php echo $rows['id'] ;?>"> <span class="btn message" style="color:white;">TRANSFER</span></a></td>
